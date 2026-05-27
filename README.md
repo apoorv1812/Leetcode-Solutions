@@ -46,6 +46,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -59,4 +60,20 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
