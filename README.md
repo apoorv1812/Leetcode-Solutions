@@ -45,6 +45,7 @@ Leetcode-Solutions/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Math
@@ -63,6 +64,7 @@ Leetcode-Solutions/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
