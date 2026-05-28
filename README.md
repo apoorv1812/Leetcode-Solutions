@@ -46,6 +46,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Math
@@ -69,6 +70,7 @@ Leetcode-Solutions/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -78,4 +80,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
