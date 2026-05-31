@@ -51,6 +51,7 @@ Leetcode-Solutions/
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +91,8 @@ Leetcode-Solutions/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
