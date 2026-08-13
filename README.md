@@ -52,6 +52,7 @@ Leetcode-Solutions/
 | [0035-search-insert-position](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -98,6 +99,7 @@ Leetcode-Solutions/
 | [0033-search-in-rotated-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
