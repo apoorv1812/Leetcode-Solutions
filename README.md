@@ -52,6 +52,7 @@ Leetcode-Solutions/
 | [0035-search-insert-position](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -121,4 +122,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
