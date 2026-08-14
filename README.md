@@ -55,6 +55,7 @@ Leetcode-Solutions/
 | [0136-single-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
