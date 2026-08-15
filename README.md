@@ -60,6 +60,7 @@ Leetcode-Solutions/
 | [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -101,6 +102,7 @@ Leetcode-Solutions/
 | [0088-merge-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -147,4 +149,5 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
