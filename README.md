@@ -64,6 +64,7 @@ Leetcode-Solutions/
 | [1470-shuffle-the-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
