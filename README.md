@@ -120,6 +120,7 @@ Leetcode-Solutions/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -137,6 +138,7 @@ Leetcode-Solutions/
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 ## Dynamic Programming
 |  |
