@@ -57,6 +57,7 @@ Leetcode-Solutions/
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -106,6 +107,7 @@ Leetcode-Solutions/
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
