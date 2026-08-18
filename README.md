@@ -57,6 +57,7 @@ Leetcode-Solutions/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -80,6 +81,7 @@ Leetcode-Solutions/
 | [0007-reverse-integer](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -167,6 +169,7 @@ Leetcode-Solutions/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
