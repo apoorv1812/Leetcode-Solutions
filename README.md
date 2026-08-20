@@ -61,6 +61,7 @@ Leetcode-Solutions/
 | [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -139,6 +140,7 @@ Leetcode-Solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -169,6 +171,7 @@ Leetcode-Solutions/
 | ------- |
 | [0136-single-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -183,6 +186,7 @@ Leetcode-Solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -199,4 +203,12 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
