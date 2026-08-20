@@ -52,6 +52,7 @@ Leetcode-Solutions/
 | [0033-search-in-rotated-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
