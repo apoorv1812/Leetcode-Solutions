@@ -5,9 +5,7 @@ Welcome to my LeetCode solutions repository 🚀
 This repository contains my accepted solutions to LeetCode problems in different topics and difficulty levels.
 
 ## 📌 Languages Used
-- C++
-- Python
-- Java (optional)
+- Java 
 
 ## 📚 Topics Covered
 - Arrays
