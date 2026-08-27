@@ -86,6 +86,7 @@ Leetcode-Solutions/
 | [0009-palindrome-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -178,6 +179,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -223,6 +225,7 @@ Leetcode-Solutions/
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
