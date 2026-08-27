@@ -1,241 +1,211 @@
-# LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-Welcome to my LeetCode solutions repository 🚀
+![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge\&logo=openjdk)
+![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Practice-black?style=for-the-badge\&logo=leetcode)
 
-This repository contains my accepted solutions to LeetCode problems in different topics and difficulty levels.
+A collection of my **LeetCode solutions and Data Structures & Algorithms practice**, primarily written in **Java**.
 
-## 📌 Languages Used
-- Java 
+This repository documents my progress as I work through different problem-solving patterns, improve my understanding of algorithms, and prepare for technical interviews and competitive programming.
 
-## 📚 Topics Covered
-- Arrays
-- Strings
-- Linked Lists
-- Binary Search
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy
-- Recursion
-- Backtracking
+---
 
-## 📈 Progress
-- Total Problems Solved: XX+
-- Easy: XX
-- Medium: XX
-- Hard: XX
+## 📊 Progress
 
-## 📂 Repository Structure
+| Difficulty | Solved |
+| ---------- | -----: |
+| 🟢 Easy    | **40** |
+| 🟡 Medium  |  **9** |
+| 🔴 Hard    |  **3** |
+| **Total**  | **52** |
 
-``` id="5mjlwm"
+> 📌 The numbers above are updated as I continue solving problems.
+
+---
+
+## 🧠 Topics & Patterns
+
+### Currently Practicing
+
+* Arrays
+* Strings
+* Hash Tables
+* Binary Search
+* Two Pointers
+* Sorting
+* Bit Manipulation
+* Math
+* Recursion
+* Matrix
+* Divide & Conquer
+* Dynamic Programming
+* Simulation
+
+### Coming Next
+
+* Linked Lists
+* Stack & Queue
+* Sliding Window
+* Prefix Sum
+* Trees & BST
+* Heaps / Priority Queue
+* Backtracking
+* Graphs
+* Greedy Algorithms
+* Advanced Dynamic Programming
+
+The goal is to gradually build a strong understanding of each major DSA pattern rather than simply increasing the number of solved problems.
+
+---
+
+## 📁 Repository Structure
+
+Each problem is stored in its own directory using the LeetCode problem number and title.
+
+```text
 Leetcode-Solutions/
 │
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Trees/
-├── Graphs/
-├── DP/
-└── README.md
+├── 0001-two-sum/
+├── 0004-median-of-two-sorted-arrays/
+├── 0033-search-in-rotated-sorted-array/
+├── 0070-climbing-stairs/
+├── 0191-number-of-1-bits/
+├── 0704-binary-search/
+├── 0832-flipping-an-image/
+│
+├── ...
+│
+├── README.md
+└── stats.json
+```
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0001-two-sum) |
-| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0027-remove-element) |
-| [0033-search-in-rotated-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0035-search-insert-position) |
-| [0041-first-missing-positive](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
-| [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
-| [0088-merge-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0136-single-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0136-single-number) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
-| [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
-| [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
-| [0283-move-zeroes](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0283-move-zeroes) |
-| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
-| [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0414-third-maximum-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0485-max-consecutive-ones](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
-| [0645-set-mismatch](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0645-set-mismatch) |
-| [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
-| [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
-| [0832-flipping-an-image](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
-| [0896-monotonic-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0896-monotonic-array) |
-| [0905-sort-array-by-parity](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
-| [0977-squares-of-a-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
-| [1095-find-in-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
-| [1470-shuffle-the-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
-| [1480-running-sum-of-1d-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
-| [1672-richest-customer-wealth](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
-| [1929-concatenation-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0009-palindrome-number) |
-| [0066-plus-one](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0066-plus-one) |
-| [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
-| [0231-power-of-two](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0231-power-of-two) |
-| [0258-add-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0258-add-digits) |
-| [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
-| [0509-fibonacci-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
-## Simulation
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0258-add-digits) |
-| [0832-flipping-an-image](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
-| [1929-concatenation-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
-## Number Theory
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0258-add-digits) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0001-two-sum) |
-| [0041-first-missing-positive](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
-| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
-| [0242-valid-anagram](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
-| [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0383-ransom-note](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0383-ransom-note) |
-| [0387-first-unique-character-in-a-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0645-set-mismatch](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0645-set-mismatch) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
-| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
-| [0191-number-of-1-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
-| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
-| [0242-valid-anagram](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
-| [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0414-third-maximum-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0645-set-mismatch](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0645-set-mismatch) |
-| [0905-sort-array-by-parity](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
-| [0977-squares-of-a-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0169-majority-element) |
-| [0383-ransom-note](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0383-ransom-note) |
-| [0387-first-unique-character-in-a-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
-| [0033-search-in-rotated-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0035-search-insert-position) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
-| [0278-first-bad-version](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0278-first-bad-version) |
-| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
-| [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0374-guess-number-higher-or-lower](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
-| [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
-| [0744-find-smallest-letter-greater-than-target](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
-| [1095-find-in-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
-## Matrix
-|  |
-| ------- |
-| [0832-flipping-an-image](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
-| [1672-richest-customer-wealth](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
-## Ternary Search
-|  |
-| ------- |
-| [0852-peak-index-in-a-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
-| [1095-find-in-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
-## Interactive
-|  |
-| ------- |
-| [0278-first-bad-version](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0278-first-bad-version) |
-| [0374-guess-number-higher-or-lower](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
-| [1095-find-in-mountain-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0509-fibonacci-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0136-single-number) |
-| [0191-number-of-1-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
-| [0231-power-of-two](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0231-power-of-two) |
-| [0268-missing-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0268-missing-number) |
-| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
-| [0645-set-mismatch](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0645-set-mismatch) |
-| [0832-flipping-an-image](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
-## Prefix Sum
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0027-remove-element) |
-| [0088-merge-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
-| [0125-valid-palindrome](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0189-rotate-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0283-move-zeroes) |
-| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
-| [0344-reverse-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0344-reverse-string) |
-| [0349-intersection-of-two-arrays](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0832-flipping-an-image](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
-| [0905-sort-array-by-parity](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
-| [0977-squares-of-a-sorted-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
-## String
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
-| [0242-valid-anagram](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0242-valid-anagram) |
-| [0344-reverse-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0344-reverse-string) |
-| [0383-ransom-note](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0383-ransom-note) |
-| [0387-first-unique-character-in-a-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
-## Queue
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
-## Pigeonhole Principle
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
-## Recursion
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0231-power-of-two) |
-| [0509-fibonacci-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-<!---LeetCode Topics End-->
+This naming convention makes problems easy to search and keeps the repository organized as the collection grows.
+
+---
+
+## 💻 Language
+
+All solutions in this repository are currently written in:
+
+**Java ☕**
+
+Java is my primary language for DSA practice, allowing me to focus on understanding algorithms, data structures, complexity, and problem-solving techniques.
+
+---
+
+## 🎯 Goals
+
+I'm using this repository as a long-term DSA learning log.
+
+### Short-Term
+
+* [x] Solve 50+ LeetCode problems
+* [ ] Reach 100 problems
+* [ ] Build stronger Medium-problem solving skills
+* [ ] Complete core Array & String patterns
+* [ ] Master Binary Search patterns
+
+### Mid-Term
+
+* [ ] Reach 200+ problems
+* [ ] Build strong Tree & Graph fundamentals
+* [ ] Improve Dynamic Programming
+* [ ] Solve more Medium problems independently
+* [ ] Start participating regularly in LeetCode contests
+
+### Long-Term
+
+* [ ] Reach 300+ quality problems
+* [ ] Develop strong interview-level DSA skills
+* [ ] Become comfortable solving unfamiliar Medium problems
+* [ ] Build a solid foundation for competitive programming and software engineering interviews
+
+---
+
+## 📈 Learning Philosophy
+
+> **Quality over quantity.**
+
+Solving a problem once is not enough.
+
+For problems that introduce an important pattern, I aim to understand:
+
+* Why the solution works
+* The underlying pattern
+* Time complexity
+* Space complexity
+* Possible alternative approaches
+* When the same technique can be applied to other problems
+
+The objective is not just to collect solved problems, but to build **transferable problem-solving skills**.
+
+---
+
+## 🏆 Some Problems I've Practiced
+
+A few of the problems currently included in the repository:
+
+* [Two Sum](https://leetcode.com/problems/two-sum/)
+* [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+* [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+* [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+* [Binary Search](https://leetcode.com/problems/binary-search/)
+* [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+* [Power of Two](https://leetcode.com/problems/power-of-two/)
+* [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+
+---
+
+## 📚 What I'm Learning
+
+My current focus is moving from solving mostly straightforward problems toward **pattern recognition and Medium-level problem solving**.
+
+The progression I'm following is roughly:
+
+```text
+Arrays & Strings
+        ↓
+Hashing
+        ↓
+Two Pointers
+        ↓
+Binary Search
+        ↓
+Sliding Window
+        ↓
+Stack & Queue
+        ↓
+Linked Lists
+        ↓
+Trees & Heaps
+        ↓
+Graphs
+        ↓
+Greedy
+        ↓
+Dynamic Programming
+```
+
+---
+
+## 🔗 Profiles
+
+* 💻 **LeetCode:** [@_apoorv10](https://leetcode.com/u/_apoorv10/)
+* 🐙 **GitHub:** [@apoorv2202](https://github.com/apoorv2202)
+
+---
+
+## ⭐ Repository Status
+
+This repository is actively being updated as I solve new problems.
+
+**52 problems solved and counting. 🚀**
+
+If you find the repository useful, feel free to ⭐ the repository.
+
+---
+
+<p align="center">
+  <b>Keep solving. Keep learning. Keep improving. 🚀</b>
+</p>
