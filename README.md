@@ -209,3 +209,15 @@ If you find the repository useful, feel free to ⭐ the repository.
 <p align="center">
   <b>Keep solving. Keep learning. Keep improving. 🚀</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+<!---LeetCode Topics End-->
