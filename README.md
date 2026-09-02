@@ -224,6 +224,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -256,4 +257,8 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
