@@ -255,6 +255,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Enumeration
 |  |
