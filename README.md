@@ -225,6 +225,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -269,8 +270,17 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
