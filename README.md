@@ -254,6 +254,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Enumeration
 |  |
@@ -263,4 +264,12 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
