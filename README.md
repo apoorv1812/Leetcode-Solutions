@@ -215,6 +215,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -224,6 +225,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -290,4 +292,8 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
